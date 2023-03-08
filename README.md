@@ -1,6 +1,6 @@
 <img align="center" alt="Coding" width ="800" height="250" src="https://jusmarktech.com/public/a/images/pages/web_development.gif">
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=100&center=YANLI%C5%9E&vCenter=YANLI%C5%9E&repeat=do%C4%9Fru&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Yusuf+Ayk%C4%B1n;I'm+Front+End+%7C+React+Developer;Yusuf+Ayk%C4%B1n" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=100&center=YANLI%C5%9E&vCenter=YANLI%C5%9E&repeat=do%C4%9Fru&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Yusuf+Ayk%C4%B1n" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">A passionate frontend developer from Turkey</h3>
