@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width ="1000" height="200" src="https://media.licdn.com/dms/image/C4E12AQHohaaJm6qNNw/article-cover_image-shrink_600_2000/0/1630526455370?e=2147483647&v=beta&t=u2Y1Km4BQ4IpxR95UafxXD5fpu_fZvh_KE2qHvq_ngE">
+<img align="center" alt="Coding" width ="1000" height="300" src="https://media.licdn.com/dms/image/C4E12AQHohaaJm6qNNw/article-cover_image-shrink_600_2000/0/1630526455370?e=2147483647&v=beta&t=u2Y1Km4BQ4IpxR95UafxXD5fpu_fZvh_KE2qHvq_ngE">
 
 <h1 align="center">Hi 👋, I'm Yusuf Aykın</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
